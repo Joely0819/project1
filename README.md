@@ -1,6 +1,6 @@
 Project 1 - Bootcamp
 # Major findings summarized - short description of findings and relevant plots
-Hypothesis: If a title on Netflix is classified under the action/adventure genre, then it is more likely to have a higher IMDB user rating as well as be the most produced genre on the entertainment platform.
+Hypothesis: If a title on Netflix is classified under the action/adventure genre, then it is more likely to have a higher IMDB user rating.
 # The affect on genre on user reviews
 # The most produced genre
     This is depicted by a bar graph and pie chart. 
