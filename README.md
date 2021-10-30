@@ -2,7 +2,7 @@
 ## Hypothesis: If a movie title is classified under the Action genre then it will be more likely to have a higher IMDB user rating.
 
 * Is there a correlation between the year a movie was released and its rating? 
-    * Our data, visualized by scatter plots, presents that there is  a higher density of ratings the closer as you    move closer to 2020. This means more ratings are being recorded          over time. However, the correlation coefficient for Figure 2 is 
+    * Our data, visualized by scatter plots, presents that there is  a higher density of ratings the closer as you    move closer to 2020. This means more ratings are being recorded          over time. However, the correlation coefficient is 0.03
 * How many movies are produced and released per MPAA rating category?
    * Our data, visualized by a bar graph, presents that the most commonly produced MPAA ratings are TV-MA (mature audiences) and R. Out of the 21 mpaa ratings, TV-MA consisted of        over 800 titles
    * We also used pie charts to depict the most popular MPAA ratings among three types of genres
