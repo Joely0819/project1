@@ -1,12 +1,17 @@
 Project 1 - Bootcamp
-# Major findings summarized - short description of findings and relevant plots
-Hypothesis: If a title on Netflix is classified under the action/adventure genre, then it is more likely to have a higher IMDB user rating.
-# The affect on genre on user reviews
-# The most produced genre
-    This is depicted by a bar graph and pie chart. 
-    Both plots suggests that dramas are the most produced genre type. 
-# The trend between year and number of movies produced
-    This is depicted by a line graph. Movies were at a plateau between 1925 and 1995. 
-    According to the data, movies produced peaked closer to 2015. 
-# The trend amongst directors to produce a specific rating (pg, R etc.) type of movie
-# The amount of movies or tv shows that a country produces, and the ones that produce the most.
+Hypothesis: If a movie title is classified under the Action genre then it will be more likely to have a higher IMDB user rating.
+
+Is there a correlation between the year a movie was released and its rating? 
+    Our data, visualized by scatter plots, presents that there is  a higher density of ratings the closer as you move closer to 2020. This means more ratings are being recorded          over time. However, the correlation coefficient for Figure 2 is 
+How many movies are produced and released per MPAA rating category?
+   Our data, visualized by a bar graph, presents that the most commonly produced MPAA ratings are TV-MA (mature audiences) and R. Out of the 21 mpaa ratings, TV-MA consisted of        over 800 titles
+   We also used pie charts to depict the most popular MPAA ratings among three types of genres
+        Documentaries have Not Rated as their top MPAA rating at 34.9%
+        Shorts have Not Rated as their top MPAA rating at 54.5% 
+        Biographies have the R Rating as theri top MPAA rating at 42.9%
+Which genre contains the highest average IMDB ratings? 
+    Our data, visualized by a bar graph and histograms, presents that the top three highly rated genres are Documentary, Short, and Biography respectively. The data presented that         Documentaries narrowly beat out Shorts with the highest average IMDB Rating at 7.09 out of 10 
+    Through histograms, we observed that there was a rating within the documentary genre that lies outside the overall pattern of the distribution. This low outlier on the                 Documentary histogram slightly lowers the average and that the most produced genre, Comedy, has an above-average rating. Within the documentary genre, the histogram is             skewed to the left with the most counts belonging to ratings between 6 to 8 out of 10. Within the comedy genre, the most counts per rating were less skewed but Comedy did          not have the highest user rating compared to documentaries.
+    Statistcal analysis shows that two of the three  top genres by user rating have the lowest standard deviations. Biography at 0.77, Documentary at 0.92 and Shorts at 1.25.         Presenting that most users rated these genres very highly and there were not many outliers among the data. 
+
+According to the analysis, our hypothesis was incorrect. The Documentary genre is the most popular genre based on user rating on Netflix.
